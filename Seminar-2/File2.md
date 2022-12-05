@@ -1,0 +1,9 @@
+# Таблица
+|№|Name|Age
+|-|----|---
+1|Norma|35
+2|Bella|87
+3|Carlo|54
+4|Ricardo|19
+
+
